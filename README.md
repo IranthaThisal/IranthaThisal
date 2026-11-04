@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Irantha Thisal 👋</h1>
   <p align="center">
-    <strong>Software Solutions Engineer & UI/UX Developer</strong>
+    <strong>Project Manager & UI/UX Developer</strong>
   </p>
   <p align="center">
     Bridging enterprise workflows, requirements engineering, and modern frontend architecture.
@@ -56,14 +56,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
-</div>
-
----
 
 ### ⚡ Highlights & Current Endeavors
 
