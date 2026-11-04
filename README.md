@@ -7,8 +7,8 @@
   Driving digital products from concept to launch with agile execution, clean design systems, and modern AI-augmented workflows.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/irantha-thisal-181a712a0)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:your.jmirantha@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-IranthaThisal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IranthaThisal)
 
 </div>
@@ -30,9 +30,11 @@ A selection of products, prototypes, and open initiatives I’ve managed and bui
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/IranthaThisal/PROJECT-NAME-1">01. Project / Product Name</a></h4>
+      <h4><a href="https://github.com/IranthaThisal/Evay_lanka">01. Project / Evay Lanka </a></h4>
       <p><b>Role:</b> Project Lead & UI/UX Design</p>
-      <p>A concise summary of the problem this solves and what the product achieves. Highlights key impact metrics or user outcome.</p>
+      <p>EVay Lanka is a mobile-based Electric Vehicle (EV) ecosystem application developed to support EV users in Sri Lanka through intelligent route planning, charging station discovery, battery simulation, and energy analytics.
+
+The project aims to reduce range anxiety and improve the EV user experience by providing localized smart mobility solutions tailored for Sri Lankan conditions.</p>
       <p>
         <code>Agile Delivery</code> • <code>UI/UX</code> • <code>AI Prototyping</code>
       </p>
@@ -59,9 +61,11 @@ A selection of products, prototypes, and open initiatives I’ve managed and bui
       <p>🔗 <a href="#">Case Study</a> | <a href="https://github.com/IranthaThisal/PROJECT-NAME-3">Source Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/IranthaThisal/PROJECT-NAME-4">04. Project / Product Name</a></h4>
+      <h4><a href="https://github.com/NimanthaSupun/FURNIVIZ">04. Project / Product Name</a></h4>
       <p><b>Role:</b> UI/UX & Interaction Design</p>
-      <p>Responsive design overhaul focused on micro-interactions, accessibility compliance, and design token consistency.</p>
+      <p>FurniViz is a simple and beautiful furniture design app that lets you build room layouts in 2D and instantly view them in 3D.
+
+It is made for designers, furniture consultants, and students who want to present ideas quickly and clearly.</p>
       <p>
         <code>Design Tokens</code> • <code>Figma</code> • <code>AI Dev Tools</code>
       </p>
