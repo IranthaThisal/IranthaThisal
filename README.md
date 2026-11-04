@@ -1,63 +1,100 @@
-<div align="center">
-  <h1 align="center">Hi there, I'm Irantha Thisal 👋</h1>
-  <p align="center">
-    <strong>Project Manager & UI/UX Developer</strong>
-  </p>
-  <p align="center">
-    Bridging enterprise workflows, requirements engineering, and modern frontend architecture.
-  </p>
+<div align="left">
 
-  <!-- Typing SVG Banner / Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Enterprise+Web+Apps;React+%7C+TypeScript+%7C+Tailwind+CSS;Bridging+Business+Logic+%26+Clean+UI;AI+Workflows+%26+Interactive+Interfaces" alt="Typing SVG" />
-  </a>
+# Irantha Thisal
+### Technical Project Manager & AI-Driven Product Builder
 
-  <p align="center">
-    <a href="https://linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-</div>
+<p>
+  Driving digital products from concept to launch with agile execution, clean design systems, and modern AI-augmented workflows.
+</p>
 
----
-
-### 🚀 About Me
-
-- 💼 **Focus Areas**: Enterprise Systems Architecture, UI Engineering, Requirements Engineering, and Human-Computer Interaction.
-- 🎓 **Background**: First Class Honours in Technology Management.
-- 🛠️ **Current Projects**: Enterprise HRIS & ALMS platforms, financial reconciliation modules, and conversational AI integrations.
-- 💡 **Philosophy**: Complex business rules deserve intuitive, clutter-free interfaces and rock-solid system reliability.
-
----
-
-### 💻 Tech Stack & Tooling
-
-<div align="center">
-
-#### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-#### Systems, DevOps & Environment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux / WSL](https://img.shields.io/badge/Linux_WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### Enterprise & Product
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-IranthaThisal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IranthaThisal)
 
 </div>
 
 ---
 
+### 💡 What I Do
 
-### ⚡ Highlights & Current Endeavors
+- 🎯 **Project & Delivery Management:** Agile/Scrum methodologies, sprint planning, cross-functional team alignment, stakeholder communication, and roadmap execution.
+- 🎨 **UI/UX & AI-Augmented Prototyping:** Rapid prototyping and interface refinements leveraging LLMs and modern design tools (Figma, AI agents, Tailwind/CSS) to translate product requirements into polished user experiences.
+- 🔄 **Product Strategy:** Bridging technical architecture with user-centric design to ensure timely, high-impact releases.
+
+---
+
+### 🚀 Featured Projects & Products
+
+A selection of products, prototypes, and open initiatives I’ve managed and built:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/IranthaThisal/PROJECT-NAME-1">01. Project / Product Name</a></h4>
+      <p><b>Role:</b> Project Lead & UI/UX Design</p>
+      <p>A concise summary of the problem this solves and what the product achieves. Highlights key impact metrics or user outcome.</p>
+      <p>
+        <code>Agile Delivery</code> • <code>UI/UX</code> • <code>AI Prototyping</code>
+      </p>
+      <p>🔗 <a href="#">Live Demo</a> | <a href="https://github.com/IranthaThisal/PROJECT-NAME-1">Source Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/IranthaThisal/PROJECT-NAME-2">02. Project / Product Name</a></h4>
+      <p><b>Role:</b> Product Manager & Frontend Prototyper</p>
+      <p>Minimalist interface designed for streamlined workflows. Built with AI assistance for rapid iteration and user feedback validation.</p>
+      <p>
+        <code>Sprint Planning</code> • <code>Design Systems</code> • <code>Tailwind</code>
+      </p>
+      <p>🔗 <a href="#">Live Demo</a> | <a href="https://github.com/IranthaThisal/PROJECT-NAME-2">Source Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/IranthaThisal/PROJECT-NAME-3">03. Project / Product Name</a></h4>
+      <p><b>Role:</b> Technical PM</p>
+      <p>End-to-end management of feature delivery, user research, and backlog grooming for seamless user onboarding.</p>
+      <p>
+        <code>Scrum</code> • <code>User Journey</code> • <code>Prototyping</code>
+      </p>
+      <p>🔗 <a href="#">Case Study</a> | <a href="https://github.com/IranthaThisal/PROJECT-NAME-3">Source Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/IranthaThisal/PROJECT-NAME-4">04. Project / Product Name</a></h4>
+      <p><b>Role:</b> UI/UX & Interaction Design</p>
+      <p>Responsive design overhaul focused on micro-interactions, accessibility compliance, and design token consistency.</p>
+      <p>
+        <code>Design Tokens</code> • <code>Figma</code> • <code>AI Dev Tools</code>
+      </p>
+      <p>🔗 <a href="#">Live Preview</a> | <a href="https://github.com/IranthaThisal/PROJECT-NAME-4">Source Code</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Core Competencies & Toolkit
+
+<p>
+  <b>Delivery & Management:</b> Agile, Scrum, Kanban, JIRA, Confluence, Product Roadmapping, Risk Management<br/>
+  <b>Design & Experience:</b> Figma, Wireframing, User Journey Mapping, Design Systems, Usability Testing<br/>
+  <b>AI-Assisted Dev:</b> Claude Code, Antigravity, GitHub Copilot, Cursor, Modern UI Frameworks (Tailwind, React, HTML/CSS)
+</p>
+
+---
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IranthaThisal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Irantha's GitHub stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IranthaThisal&theme=github_dark&hide_border=true" alt="Irantha's streak" height="150" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Let's build something exceptional together. Feel free to reach out for collaborations or project management inquiries.</sub>
+</div>
 
 - 🤖 **Enterprise AI**: Prototyping and stress-testing LLM agents for automated business logic and workforce queries.
 - 📐 **System Prototyping**: Developing responsive dashboards with high data density (reconciliation flows, attendance/shift grids).
