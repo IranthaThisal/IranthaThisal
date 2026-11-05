@@ -25,7 +25,7 @@
 
 ### 🚀 Featured Projects & Products
 
-A selection of products, prototypes, and open initiatives I’ve managed and built:
+A selection of products, prototypes, and open initiatives I’ve managed, built, or contributed to:
 
 <table>
   <tr>
@@ -39,13 +39,13 @@ A selection of products, prototypes, and open initiatives I’ve managed and bui
       <p>🔗 <a href="https://github.com/IranthaThisal/Evay_lanka">Source Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/IranthaThisal/Wand-Enhancer">02. WandEnhancer</a></h4>
-      <p><b>Role:</b> Product Builder & UX/Interoperability Developer</p>
-      <p>An open-source extension for the Wand application focused on local configuration management, compatibility adjustments, client-side layout and theme customization, AI features, and a LAN remote web panel.</p>
+      <h4><a href="https://github.com/sachini-wijesundara/website-fida">02. FIDA Global Website</a></h4>
+      <p><b>Role:</b> Technical Contributor</p>
+      <p>A Next.js and TypeScript corporate website for FIDA Global, with solution pages, project content, and responsive user experiences.</p>
       <p>
-        <code>Open Source</code> • <code>UX Engineering</code> • <code>WebSocket</code> • <code>AI Features</code>
+        <code>Next.js</code> • <code>TypeScript</code> • <code>React</code> • <code>UI Development</code>
       </p>
-      <p>🔗 <a href="https://github.com/IranthaThisal/Wand-Enhancer">Source Code</a></p>
+      <p>🔗 <a href="https://github.com/sachini-wijesundara/website-fida">Source Code</a></p>
     </td>
   </tr>
   <tr>
