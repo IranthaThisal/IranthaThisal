@@ -32,44 +32,40 @@ A selection of products, prototypes, and open initiatives I’ve managed and bui
     <td width="50%" valign="top">
       <h4><a href="https://github.com/IranthaThisal/Evay_lanka">01. Project / Evay Lanka </a></h4>
       <p><b>Role:</b> Project Lead & UI/UX Design</p>
-      <p>EVay Lanka is a mobile-based Electric Vehicle (EV) ecosystem application developed to support EV users in Sri Lanka through intelligent route planning, charging station discovery, battery simulation, and energy analytics.
-
-The project aims to reduce range anxiety and improve the EV user experience by providing localized smart mobility solutions tailored for Sri Lankan conditions.</p>
+      <p>A localized EV ecosystem for Sri Lanka with smart route planning, charging-station discovery, battery and range simulation, charging bookings, cost comparisons, and CO₂-savings analytics. Built with Flutter, Firebase, and Google Maps.</p>
       <p>
-        <code>Agile Delivery</code> • <code>UI/UX</code> • <code>AI Prototyping</code>
+        <code>Flutter</code> • <code>Dart</code> • <code>Firebase</code> • <code>Google Maps</code>
       </p>
-      <p>🔗 <a href="#">Live Demo</a> | <a href="https://github.com/IranthaThisal/PROJECT-NAME-1">Source Code</a></p>
+      <p>🔗 <a href="https://github.com/IranthaThisal/Evay_lanka">Source Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/IranthaThisal/PROJECT-NAME-2">02. Project / Product Name</a></h4>
-      <p><b>Role:</b> Product Manager & Frontend Prototyper</p>
-      <p>Minimalist interface designed for streamlined workflows. Built with AI assistance for rapid iteration and user feedback validation.</p>
+      <h4><a href="https://github.com/IranthaThisal/Wand-Enhancer">02. WandEnhancer</a></h4>
+      <p><b>Role:</b> Product Builder & UX/Interoperability Developer</p>
+      <p>An open-source extension for the Wand application focused on local configuration management, compatibility adjustments, client-side layout and theme customization, AI features, and a LAN remote web panel.</p>
       <p>
-        <code>Sprint Planning</code> • <code>Design Systems</code> • <code>Tailwind</code>
+        <code>Open Source</code> • <code>UX Engineering</code> • <code>WebSocket</code> • <code>AI Features</code>
       </p>
-      <p>🔗 <a href="#">Live Demo</a> | <a href="https://github.com/IranthaThisal/PROJECT-NAME-2">Source Code</a></p>
+      <p>🔗 <a href="https://github.com/IranthaThisal/Wand-Enhancer">Source Code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/IranthaThisal/PROJECT-NAME-3">03. Project / Product Name</a></h4>
-      <p><b>Role:</b> Technical PM</p>
-      <p>End-to-end management of feature delivery, user research, and backlog grooming for seamless user onboarding.</p>
+      <h4><a href="https://github.com/IranthaThisal/JAVA-Group-Project">03. Multiflex Movie Website</a></h4>
+      <p><b>Role:</b> Team Member & Technical Project Contributor</p>
+      <p>A Java-based group project for a movie-platform experience, covering the core website implementation and collaborative delivery of a multiflex movie service.</p>
       <p>
-        <code>Scrum</code> • <code>User Journey</code> • <code>Prototyping</code>
+        <code>Java</code> • <code>Web Development</code> • <code>Team Delivery</code>
       </p>
-      <p>🔗 <a href="#">Case Study</a> | <a href="https://github.com/IranthaThisal/PROJECT-NAME-3">Source Code</a></p>
+      <p>🔗 <a href="https://github.com/IranthaThisal/JAVA-Group-Project">Source Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/NimanthaSupun/FURNIVIZ">04. Project / Product Name</a></h4>
-      <p><b>Role:</b> UI/UX & Interaction Design</p>
-      <p>FurniViz is a simple and beautiful furniture design app that lets you build room layouts in 2D and instantly view them in 3D.
-
-It is made for designers, furniture consultants, and students who want to present ideas quickly and clearly.</p>
+      <h4><a href="https://github.com/NimanthaSupun/FURNIVIZ">04. FurniViz</a></h4>
+      <p><b>Role:</b> UI/UX & Interaction Design Contributor</p>
+      <p>A furniture-design experience that lets users create room layouts in 2D and preview them in 3D, helping designers, consultants, and students present ideas quickly and clearly.</p>
       <p>
-        <code>Design Tokens</code> • <code>Figma</code> • <code>AI Dev Tools</code>
+        <code>3D Visualization</code> • <code>UI/UX</code> • <code>Interaction Design</code>
       </p>
-      <p>🔗 <a href="#">Live Preview</a> | <a href="https://github.com/IranthaThisal/PROJECT-NAME-4">Source Code</a></p>
+      <p>🔗 <a href="https://github.com/NimanthaSupun/FURNIVIZ">Source Code</a></p>
     </td>
   </tr>
 </table>
